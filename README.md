@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Alonso 👋
 
-<!--
-**alonsoruizv/alonsoruizv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Data & BI Analyst based in Dublin, Ireland. I work with data everyday. On my free time I like to come here and build things with data that I find interesting... using it as my portfolio but also to keep my skills sharp!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+**Analytics & BI** - SQL | Python | R | Looker | Tableau | Power BI   
+**Warehouses** — BigQuery · Snowflake · Redshift · GCP · Teradata
+
+---
+
+## Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [☕ Café Analytics Dashboard](https://github.com/alonsoruizv/cafe-analytics) | End-to-end sales analysis for a 3-location café chain — staffing, product mix, store performance, and growth trends. Deployed as a live Streamlit app. | Python · Pandas · Plotly · Streamlit |
+
+---
+
+## Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/alonsoruizv/)
