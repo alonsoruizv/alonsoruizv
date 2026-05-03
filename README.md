@@ -15,7 +15,7 @@ Senior Data & BI Analyst based in Dublin, Ireland. I work with data everyday. On
 
 | Project | Description | Stack |
 |---|---|---|
-| [☕ Café Analytics Dashboard](https://github.com/alonsoruizv/cafe-analytics) | End-to-end sales analysis for a 3-location café chain — staffing, product mix, store performance, and growth trends. Deployed as a live Streamlit app. | Python · Pandas · Plotly · Streamlit |
+| [☕ Café Analytics Dashboard](https://github.com/alonsoruizv/cafe-analytics) | End-to-end sales analysis for a 3-location café chain — staffing, product mix, store performance, and growth trends. Deployed as a live Streamlit app. Working here - https://cafe-analytics-alonso-ruiz.streamlit.app/ | Python · Pandas · Plotly · Streamlit |
 
 ---
 
