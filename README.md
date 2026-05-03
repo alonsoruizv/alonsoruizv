@@ -7,7 +7,7 @@ Senior Data & BI Analyst based in Dublin, Ireland. I work with data everyday. On
 ## Stack
 
 **Analytics & BI** - SQL | Python | R | Looker | Tableau | Power BI   
-**Warehouses** — BigQuery · Snowflake · Redshift · GCP · Teradata
+**Warehouses** - BigQuery · Snowflake · Redshift · GCP · Teradata
 
 ---
 
