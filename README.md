@@ -6,7 +6,7 @@ Senior Data & BI Analyst based in Dublin, Ireland. I work with data everyday. On
 
 ## Stack
 
-**Analytics & BI** - SQL | Python | R | Looker | Tableau | Power BI   
+**Analytics & BI** - SQL | Python | R | Looker | Tableau | Power BI  
 **Warehouses** - BigQuery · Snowflake · Redshift · GCP · Teradata
 
 ---
@@ -16,6 +16,7 @@ Senior Data & BI Analyst based in Dublin, Ireland. I work with data everyday. On
 | Project | Description | Stack |
 |---|---|---|
 | [☕ Café Analytics Dashboard](https://github.com/alonsoruizv/cafe-analytics) | End-to-end sales analysis for a 3-location café chain — staffing, product mix, store performance, and growth trends. Deployed as a live Streamlit app. Working here - https://cafe-analytics-alonso-ruiz.streamlit.app/ | Python · Pandas · Plotly · Streamlit |
+| [🏎️ F1 Season Dashboard](https://github.com/alonsoruizv/f1-dashboard) | Vibe coded F1 Dashboard - standings, championship progression, teammate H2H. Live link - https://f1-dashboard-ku0i.onrender.com/ | Python · Dash · Plotly · Jolpica API · Render |
 
 ---
 
